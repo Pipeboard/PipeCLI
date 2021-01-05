@@ -1,0 +1,38 @@
+{
+  "name": "pipecli",
+  "version": "0.1.1",
+  "description": "Command line interface for Pipeboard in the console. Must be installed alongside Pipeboard.",
+  "main": "cli.sh",
+  "scripts": {
+    "test": "./cli.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Pipeboard/PipeCLI.git"
+  },
+  "keywords": [
+    "pipeboard",
+    "apache",
+    "internet",
+    "websites",
+    "containers",
+    "manager",
+    "dashboard",
+    "console-app",
+    "linux",
+    "ubuntu",
+    "terminal-app",
+    "addon"
+  ],
+  "author": "Pipeboard, Inc.",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/Pipeboard/PipeCLI/issues"
+  },
+  "homepage": "https://github.com/Pipeboard/PipeCLI#readme",
+  "dependencies": {
+    "node-cmd": "^4.0.0",
+    "nodejs": "^0.0.0",
+    "npm": "^6.14.10"
+  }
+}
