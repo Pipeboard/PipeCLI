@@ -4,7 +4,7 @@
   "description": "Command line interface for Pipeboard in the console. Must be installed alongside Pipeboard.",
   "main": "cli.sh",
   "scripts": {
-    "test": "./cli.sh"
+    "test": "./cli/cli.sh"
   },
   "repository": {
     "type": "git",
@@ -12,16 +12,7 @@
   },
   "keywords": [
     "pipeboard",
-    "apache",
-    "internet",
-    "websites",
-    "containers",
-    "manager",
-    "dashboard",
-    "console-app",
-    "linux",
-    "ubuntu",
-    "terminal-app",
+    "installer",
     "addon"
   ],
   "author": "Pipeboard, Inc.",
