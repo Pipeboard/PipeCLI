@@ -2,7 +2,7 @@
   "name": "pipecli",
   "version": "0.1.1",
   "description": "Command line interface for Pipeboard in the console. Must be installed alongside Pipeboard.",
-  "main": "cli.sh",
+  "main": "cli/cli.sh",
   "scripts": {
     "test": "./cli/cli.sh"
   },
